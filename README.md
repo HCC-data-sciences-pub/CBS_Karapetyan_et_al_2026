@@ -12,5 +12,3 @@ Analysis code from the Hillman Cancer Center Cancer Bioinformatics Services (CBS
 | `scripts/manuscript_figures.py` | Figure 4: CD8 vs FOXP3 Ripley's K boxplots by lead-in arm (Nivo / Rela / Combo) |
 | `scripts/SI-figure-6-all-panels.r` | SI Figure 6A–F (scRNA-seq gene signature scores: APS, CYT, IFNg, Tex) |
 | `scripts/SI-figure-6-all-panels.md` | Methods notes and package versions for SI Figure 6 |
-
-Note: paths in the scripts point to internal project directories and will need to be updated to run elsewhere.
