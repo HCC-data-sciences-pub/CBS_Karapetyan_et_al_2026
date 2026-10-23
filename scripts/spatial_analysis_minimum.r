@@ -1,8 +1,8 @@
-library(readr)
-library(dplyr)
-library(ggplot2) 
-library(spatialTIME)
-library(tidyr)
+library(readr)       # Version 2.2.0
+library(dplyr)       # Version 1.2.1 
+library(ggplot2)     # Version 4.0.3
+library(spatialTIME) # Version 1.3.4-5
+library(tidyr)       # Version 1.3.2
 
 
 column_id <- "id:mask"

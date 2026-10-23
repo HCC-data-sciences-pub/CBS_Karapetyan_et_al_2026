@@ -1,15 +1,19 @@
-import itertools
+"""
+	Script to generate figures for the paper.
+	python version: 3.11.17
+	pandas version: 2.3.0
+	matplotlib version: 3.9.1
+	seaborn version: 0.13.2
+	scipy version: 1.17.1
+"""
 from pathlib import Path
 from typing import *
-from hcc_164_scripts import projectinfo
 import pandas
-from pprint import pprint
 import matplotlib.pyplot as plt
 import seaborn
 from loguru import logger
 from scipy import stats
 import math
-from vectratools import utilities
 
 plt.style.use('fivethirtyeight')
 
